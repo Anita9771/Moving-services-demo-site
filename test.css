@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Playfair Display', serif;
+  font-family: 'Roboto Slab', serif;
+  overflow-x: hidden;
+}
+
+.servicesContainer {
+  background-image: url('./images/title-img-01.png');
+  background-size: cover;
+  margin-top: 20px;
+  width: 100%;
+  height: 400px;
+}
+
+.slider-area {
+  background-image: url('./images/services-bcgr-img-02.png');
+  background-size: cover;
+  width: 100%;
+  height: 500px;
+}
+
+.slideContent {
+  margin-top: 140px;
+}
+
+.slideImage {
+  height: 00px;
+}
+
+.sliderContainer {
+  margin-top: 50px;
+}
+
+.faqContainer {
+  background-image: url('./images/title-img-01.png');
+  background-size: cover;
+  width: 100%;
+  height: 400px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.footer {
+  background-image: url('./images/footer-img-01.png');
+  background-size: cover;
+  width: 100%;
+}
+
+.footerContent {
+  margin-top: 250px;
+}
+
+.sticky-btns {
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+}
+
+.action-btn {
+  margin-right: 0;
+}
+
+.pointer:hover{
+  cursor: pointer;
+}
